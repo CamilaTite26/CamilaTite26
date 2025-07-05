@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TailwindCSS, ROS2**
 
-- 👯 I’m looking to collaborate on **I'm open to collaborating on impactful tech or robotics projects. for youth and women in tech**
+- 👯 I’m looking to collaborate on **I'm open to collaborating on impactful tech or robotics projects.**
 
 - 🤝 I’m looking for help with **I'd love to learn more from others in the HRI or web dev space.**
 
